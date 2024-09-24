@@ -1,5 +1,9 @@
 # SmartHeal
 
+## Project Files
+The project files are too large to upload directly to GitHub. You can download the project files from the following link:
+[Download Project Files](https://drive.google.com/drive/folders/1LujcQgHje5rcaprrTQd-cMMsLDD6iK8n?usp=sharing)
+
 ### Team Members
 - Anoohya Narsingi (1602-21-737-070)
 - Bhavani Lavanga (1602-21-737-076)
