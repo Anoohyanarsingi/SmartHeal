@@ -1,7 +1,7 @@
 # SmartHeal
 
 ## Project Files
-The project files are too large to upload directly to GitHub. You can download the project files from the following link:
+You can also download the project files from the following link:
 [Download Project Files](https://drive.google.com/drive/folders/1LujcQgHje5rcaprrTQd-cMMsLDD6iK8n?usp=sharing)
 
 ### Team Members
